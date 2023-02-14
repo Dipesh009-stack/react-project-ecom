@@ -1,0 +1,13 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+label{
+  font-size: 10px;
+}
+
+.title{
+  font-size: 80px;
+}
